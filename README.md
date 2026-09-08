@@ -290,6 +290,17 @@ Key lessons from the project include:
 
 This project demonstrates an end-to-end security monitoring workflow using Wazuh and a Windows endpoint.
 
+## Project Screenshots
+
+### Windows Brute-Force Detection
+![Windows Brute-Force Detection](Custom%20Windows%20Brute-Force%20Detection.png)
+
+### Detection Logic
+![Detection Logic](Detection%20Logic.png)
+
+### Completed Wazuh SOC Lab Repository
+![Completed Wazuh SOC Lab Repository](Wazuh-SOC-Lab.png)
+
 The lab progressed from deploying the SIEM and connecting an endpoint to generating Windows security events, investigating alerts, developing a custom brute-force detection rule, and successfully validating the detection.
 
 The project provided hands-on experience with SIEM monitoring, Windows event analysis, alert triage, detection engineering, troubleshooting, and SOC investigation procedures relevant to a Tier 1 SOC Analyst role.
