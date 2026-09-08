@@ -299,7 +299,7 @@ This project demonstrates an end-to-end security monitoring workflow using Wazuh
 ![Detection Logic](Detection%20Logic.png)
 
 ### Completed Wazuh SOC Lab Repository
-![Completed Wazuh SOC Lab Repository](Wazuh-SOC-Lab.png)
+![Completed Wazuh SOC Lab Repository](Wazuh-SOC-Lab%20repository.png)
 
 The lab progressed from deploying the SIEM and connecting an endpoint to generating Windows security events, investigating alerts, developing a custom brute-force detection rule, and successfully validating the detection.
 
